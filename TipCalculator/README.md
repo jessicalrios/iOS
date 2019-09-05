@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
--[x]Party size option to divide tip between multiple people and give amount per person
+-[ ]Party size option to divide tip between multiple people and give amount per person
 
 ## Video Walkthrough
 

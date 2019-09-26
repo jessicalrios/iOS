@@ -2,8 +2,8 @@
 //  tumblrTests.swift
 //  tumblrTests
 //
-//  Created by Jessica Rios and Daniel Morales on 9/11/19.
-//  Copyright © 2019 Jessica Rios and Daniel Morales. All rights reserved.
+//  Created by Jessica Rios on 9/17/19.
+//  Copyright © 2019 Jessica Rios. All rights reserved.
 //
 
 import XCTest

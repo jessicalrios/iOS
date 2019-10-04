@@ -2,7 +2,7 @@
 //  MovieCell.swift
 //  flixster
 //
-//  Created by Jessica Rios on 9/20/19.
+//  Created by Jessica Rios on 9/16/19.
 //  Copyright © 2019 Jessica Rios. All rights reserved.
 //
 

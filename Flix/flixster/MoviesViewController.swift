@@ -2,7 +2,7 @@
 //  MoviesViewController.swift
 //  flixster
 //
-//  Created by Jessica Rios on 9/20/19.
+//  Created by Jessica Rios on 9/16/19.
 //  Copyright © 2019 Jessica Rios. All rights reserved.
 //
 
@@ -62,7 +62,6 @@ class MoviesViewController: UIViewController, UITableViewDataSource,UITableViewD
     }
     
 
-    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
@@ -77,8 +76,6 @@ class MoviesViewController: UIViewController, UITableViewDataSource,UITableViewD
         detailsViewController.movie = movie
         
         tableView.deselectRow(at: indexPath, animated: true)
-        print("loading up the deatials")
     }
- 
 
 }

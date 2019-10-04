@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "c56aab94b2b22432156e2f9d96424963"
+build_time: [1570171517, 399219000]
+inputs:
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/AFError.swift": [1570160905, 210163170]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/Alamofire.swift": [1570160905, 210489031]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1570160905, 210834636]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/MultipartFormData.swift": [1570160905, 211034836]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1570160905, 211302386]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/Notifications.swift": [1570160905, 211479386]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/ParameterEncoding.swift": [1570160905, 211662467]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/Request.swift": [1570160905, 211996569]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/Response.swift": [1570160905, 212266532]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/ResponseSerialization.swift": [1570160905, 212518237]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/Result.swift": [1570160905, 212827229]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1570160905, 213006176]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/SessionDelegate.swift": [1570160905, 213194485]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/SessionManager.swift": [1570160905, 213420484]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/TaskDelegate.swift": [1570160905, 213720018]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/Timeline.swift": [1570160905, 213899802]
+  "/Users/danielmorales/CSUMB/iOS/Flix/Pods/Alamofire/Source/Validation.swift": [1570160905, 214125569]
